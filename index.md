@@ -1,11 +1,17 @@
 ---
-layout: home
+layout: default
 title: Legal Documents
 ---
 
+# Legal Documents
+
 Legal documents for apps published by Tanner Gordon.
+
+---
 
 ## PitchPlay!
 
-- [Privacy Policy](/legal/pitchplay/privacy)
-- [Terms of Use](/legal/pitchplay/terms)
+<ul class="app-list">
+  <li><a href="/legal/pitchplay/privacy">Privacy Policy</a></li>
+  <li><a href="/legal/pitchplay/terms">Terms of Use</a></li>
+</ul>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "PitchPlay! – Terms of Use"
 permalink: /pitchplay/terms
 ---

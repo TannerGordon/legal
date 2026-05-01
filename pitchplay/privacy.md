@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "PitchPlay! – Privacy Policy"
 permalink: /pitchplay/privacy
 ---
