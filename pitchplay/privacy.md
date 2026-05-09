@@ -8,7 +8,7 @@ permalink: /pitchplay/privacy
 
 **App name:** PitchPlay!
 **Developer:** Tanner Gordon
-**Contact:** tjgordon21@gmail.com
+**Contact:** tannergordondev@gmail.com
 **Effective date:** May 1, 2026
 **Last updated:** April 26, 2026
 
@@ -83,7 +83,7 @@ We have no copy of your data on any server and therefore cannot retrieve it on y
 
 ## 5. Children's Privacy
 
-PitchPlay! is a general-audience music education app. It is **not directed at children under the age of 13**. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at tjgordon21@gmail.com and we will take steps to delete it. Because all data is stored locally on the device, deleting the app (see Section 4) will remove all associated data immediately.
+PitchPlay! is a general-audience music education app. It is **not directed at children under the age of 13**. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at tannergordondev@gmail.com and we will take steps to delete it. Because all data is stored locally on the device, deleting the app (see Section 4) will remove all associated data immediately.
 
 ---
 
@@ -104,7 +104,7 @@ We may update this Privacy Policy when we add new features (such as advertising)
 If you have questions or concerns about this Privacy Policy, please contact:
 
 **Tanner Gordon**
-Email: tjgordon21@gmail.com
+Email: tannergordondev@gmail.com
 
 ---
 
