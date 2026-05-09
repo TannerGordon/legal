@@ -8,7 +8,7 @@ permalink: /pitchplay/terms
 
 **App name:** PitchPlay!
 **Developer:** Tanner Gordon
-**Contact:** tjgordon21@gmail.com
+**Contact:** tannergordondev@gmail.com
 **Effective date:** May 1, 2026
 **Last updated:** April 26, 2026
 
@@ -118,7 +118,7 @@ You acknowledge that these Terms are between you and Tanner Gordon only, not wit
 If you have questions about these Terms, please contact:
 
 **Tanner Gordon**
-Email: tjgordon21@gmail.com
+Email: tannergordondev@gmail.com
 
 ---
 
