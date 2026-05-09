@@ -105,7 +105,3 @@ If you have questions or concerns about this Privacy Policy, please contact:
 
 **Tanner Gordon**
 Email: tannergordondev@gmail.com
-
----
-
-*PitchPlay! — bundle ID `com.tannergordon.pitchplay`*

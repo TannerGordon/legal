@@ -119,7 +119,3 @@ If you have questions about these Terms, please contact:
 
 **Tanner Gordon**
 Email: tannergordondev@gmail.com
-
----
-
-*PitchPlay! — bundle ID `com.tannergordon.pitchplay`*
